@@ -1,6 +1,6 @@
 # Fabian Herrera Open Source - Código de Conducta (ES)
 
-Este proyecto a adoptado el código de conducta de código abierto de **Visual Tradex**
+Este documento a adoptado el código de conducta de código abierto de <a href="https://www.github.com/VisualTradex"><code>Visual Tradex Corporation</code></a>
 
 ----
 
@@ -30,7 +30,7 @@ Si bien esta lista puede ser exhausativa, respetamos explicitamente la diversida
 
 ## Informar sobre algún problema
 
-Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource@visual-tradex.com">opensource@visual-tradex.com</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
+Si experimentas o es testigo de un comportamiento inaceptable, o si tiene alguna otra inquietud, comuníquese con nosotros a tráves de <a href="mailto:opensource@visual-tradex.com">opensource@visual-tradex.com</a> o <a href="mailto:contactofabianmartinez@gmail.com">contactofabianmartinez@gmail.com</a> . Todos los informes enviados se manejarán con discreción. En su informe por favor incluya:
 
 * Información de contacto.
 * Nombres (reales, apodos, seudónimos) de las personas involucradas. Si hay testigos adicionales, inclúyalos también. El relato de lo que ocurrio y si cree que el incidente continúa. si hay un registro disponible públicamente (ejemplo: correos electrónicos, usuarios, etc), incluya un enlace.
