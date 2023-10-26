@@ -1,6 +1,6 @@
 # Fabian Herrera Open Source - Código de Conducta (ES)
 
-Este documento a adoptado el código de conducta de código abierto de <a href="https://www.github.com/Boxode"><code>Boxode Corporation</code></a>
+Este documento a adoptado el código de conducta de código abierto de <a href="https://www.github.com/Boxode"><code>Boxode, Ltd.</code></a>
 
 ----
 
@@ -26,7 +26,7 @@ Nuestra comunidad de código abierto se esfuerza por:
 
 Animamos a todos a participar y estamos comprometidos a construir una comunidad para todos. Aunque es posible que no podamos satisfacer a todos, todos estamos de acuerdo en que todos son iguales. Cada vez que un participante a cometido un error, esperamos que asuma su responsabilidad por ello. Si alguien ha sido lastimado u ofendido, es nuestra responsabilidad escuchar atenta y respetuosamente, y hacer todo lo posible para corregir el error.
 
-Si bien esta lista puede ser exhausativa, respetamos explicitamente la diversidad de edad, género, identidad o expresión de género, cultura, etnia, idioma, origen nacional, creecias, profesión, raza, religión, orientación sexual, estado socioeconómico y capacidad ténica. No toleramos ninguna discriminación basada en ninguna de las características protegidas anteriores, incluidos los participantes con discapacidades.
+Si bien esta lista puede ser exhausativa, respetamos explicitamente la diversidad de edad, género, identidad o expresión de género, cultura, etnia, idioma, origen nacional, creecias, profesión, raza, religión, orientación sexual, estado socioeconómico y capacidad técnica. No toleramos ninguna discriminación basada en ninguna de las características protegidas anteriores, incluidos los participantes con discapacidades.
 
 ## Informar sobre algún problema
 
