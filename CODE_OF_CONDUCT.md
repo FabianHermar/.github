@@ -4,7 +4,7 @@ Este documento a adoptado el código de conducta de código abierto de <a href="
 
 ----
 
-En este código de conducta describe nuestras expectativas para los participantes dentro de la comunidad de <a href="https://www.github.com/FabianHMzz">@FabianHMzz</a>, así como los pasos para denunciar comportamientos inaceptables. Estamos comprometidos en crear una comunidad acogedora e inspiradora para todos. Cualquiera que viole el código de conducta puede ser expulsado de la comunidad.
+En este código de conducta describe nuestras expectativas para los participantes dentro de la comunidad de <a href="https://www.github.com/FabianHermar">@FabianHermar</a>, así como los pasos para denunciar comportamientos inaceptables. Estamos comprometidos en crear una comunidad acogedora e inspiradora para todos. Cualquiera que viole el código de conducta puede ser expulsado de la comunidad.
 
 Nuestra comunidad de código abierto se esfuerza por:
 
